@@ -4,9 +4,9 @@ References
 
 ## PARAGRAPH START ##
 Aidar, L., & Daniels, P. (2020, August 10). A critical review of voluntary simplicity:<br /> 
-  Definitional inconsistencies, movement identity and direction for future research.<br /> 
-  The Social Science Journal, 61(1), 47-60.<br /> 
-  https://doi.org/10.1080/03623319.2020.1791785<br />
+    Definitional inconsistencies, movement identity and direction for future research.<br /> 
+    The Social Science Journal, 61(1), 47-60.<br /> 
+    https://doi.org/10.1080/03623319.2020.1791785<br />
 
 Baron, G. (2024, June 17). The oxymoronic underpinning of green consumerism. The<br /> 
   University of Auckland. Retrieved May 6, 2025, from<br /> 
