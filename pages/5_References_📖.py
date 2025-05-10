@@ -19,7 +19,10 @@ st.set_page_config(page_title="References", page_icon='📖')
 st.title(read_file(references_path, 2, 2))
 
 #paragraph
-st.markdown(read_file(references_path, 6, 36))
+st.markdown(read_file(references_path, 6, 32))
 
 #note
-st.subheader(read_file(references_path, 35, 36)
+st.subheader(read_file(references_path, 36, 36)
+
+#paragraph
+st.markdown(read_file(references_path, 40, 40))
