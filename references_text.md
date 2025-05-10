@@ -33,5 +33,5 @@ Ziesemer, F., Hüttel, A., & Balderjahn, I. (2021, May 15). Young People as Driv
 
 
 
-**Note**: Due to limitations in the servcice that makes this app (Streamlit), Ithe second, third, and fourth lines of each reference. 
+**Note**: Due to limitations in the servcice that makes this app (Streamlit), the second, third, and fourth lines of each reference cannot be indented properly. 
 ## PARAGRAPH END ##
