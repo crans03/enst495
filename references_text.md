@@ -31,7 +31,7 @@ Ziesemer, F., Hüttel, A., & Balderjahn, I. (2021, May 15). Young People as Driv
   Journal of Consumer Policy, 44(3), 427-453.
   https://doi.org/10.1007/s10603-021-09489-x
 
-
-
+<br />
+<br />
 **Note**: Due to limitations in the servcice that makes this app (Streamlit), Ithe second, third, and fourth lines of each reference. 
 ## PARAGRAPH END ##
