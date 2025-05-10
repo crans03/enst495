@@ -37,7 +37,7 @@ st.subheader(read_file(home_path, 24,24))
 st.markdown(read_file(home_path, 28,30))
 
 #image, caption
-st.image('suay.jpg', caption=read_file(home_path,37,37))
+st.image('suay.png', caption=read_file(home_path,37,37))
 
 #subheading
 st.subheader(read_file(home_path, 41,41))
