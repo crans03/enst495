@@ -1,3 +1,7 @@
+## TITLE START ##
+References
+## TITLE END ##
+
 ## PARAGRAPH START ##
 Aidar, L., & Daniels, P. (2020, August 10). A critical review of voluntary simplicity: 
   Definitional inconsistencies, movement identity and direction for future research. 
