@@ -1,5 +1,5 @@
 import streamlit as st
-from Home_🏠 import read_file
+from Home import read_file
 
 process_path = 'process_text.md'
 
