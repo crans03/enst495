@@ -22,7 +22,7 @@ st.title(read_file(references_path, 2, 2))
 st.markdown(read_file(references_path, 6, 32))
 
 #note
-st.subheader(read_file(references_path, 36, 36)
+st.subheader(read_file(references_path, 36, 36))
 
 #paragraph
 st.markdown(read_file(references_path, 40, 40))
