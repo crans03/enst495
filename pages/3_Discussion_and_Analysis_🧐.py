@@ -1,5 +1,5 @@
 import streamlit as st
-from Home_🏠 import read_file
+from Home import read_file
 
 discussion_path = 'discussion_text.md'
 
