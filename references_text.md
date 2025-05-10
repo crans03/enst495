@@ -26,8 +26,8 @@ Lee, M. S. (2022, June). Anti-consumption research: A foundational and contempor
 SUAY. (n.d.). SUAY. SUAY: Remade in L.A. Retrieved May 6, 2025, from<br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;https://suayla.com<br /> 
 
-Ziesemer, F., Hüttel, A., & Balderjahn, I. (2021, May 15). Young People as Drivers or <br />  
-&nbsp;&nbsp;&nbsp;&nbsp;Inhibitors of the Sustainability Movement: The Case of Anti-Consumption. <br />  
-&nbsp;&nbsp;&nbsp;&nbsp;Journal of Consumer Policy, 44(3), 427-453. <br />  
-&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1007/s10603-021-09489-x <br /> 
+Ziesemer, F., Hüttel, A., & Balderjahn, I. (2021, May 15). Young People as Drivers or
+Inhibitors of the Sustainability Movement: The Case of Anti-Consumption.
+Journal of Consumer Policy, 44(3), 427-453.
+https://doi.org/10.1007/s10603-021-09489-x
 ## PARAGRAPH END ##
