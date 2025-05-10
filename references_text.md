@@ -30,8 +30,12 @@ Ziesemer, F., Hüttel, A., & Balderjahn, I. (2021, May 15). Young People as Driv
   Inhibitors of the Sustainability Movement: The Case of Anti-Consumption.
   Journal of Consumer Policy, 44(3), 427-453.
   https://doi.org/10.1007/s10603-021-09489-x
+## PARAGRAPH END ##
 
+## SUBHEADING START ##
+Note
+## SUBHEADING END ##
 
-
-**Note**: Due to limitations in the servcice that makes this app (Streamlit), the second, third, and fourth lines of each reference cannot be indented properly. 
+## PARAGRAPH START ##
+Due to limitations in the servcice that makes this app (Streamlit), the second, third, and fourth lines of each reference cannot be indented properly. 
 ## PARAGRAPH END ##
