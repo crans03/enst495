@@ -15,11 +15,11 @@ The survey did not collect names or email addresses of respondents, and clarifie
 
 The following are a list of questions asked by the survey: 
 - Have you ever intentionally practiced anti-consumption or reduced your consumption of anything for environmental/ethical reasons?
-        - *Yes*
-        - *No*
+    - *Yes*
+    - *No*
 - On a scale of 1-10, rate how much you care about the impact your consumption has on the environment. 
-         - *1 – Don’t care at all*
-         - *10 – I think about it all the time, every day*
+     - *1 – Don’t care at all*
+     - *10 – I think about it all the time, every day*
 - For you personally, what is the biggest obstacle to practicing more (or any) forms of anti-consumption?
     - *Practical inconvenience*
     - *High cost*
