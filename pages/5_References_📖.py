@@ -20,3 +20,6 @@ st.title(read_file(references_path, 2, 2))
 
 #paragraph
 st.markdown(read_file(references_path, 6, 36))
+
+#note
+st.subheader(read_file(references_path, 35, 36)
